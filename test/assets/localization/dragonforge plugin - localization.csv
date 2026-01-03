@@ -1,20 +1,20 @@
-keys,en-US,en-GB,fr,fr-CA,de,ko-KR,ja-JP,zh-CN
-COLOR,Color,Colour,Couleur,Couleur,Farbe,색상,色,颜色
-ARMOR,Armor,Armour,Armure,Armure,Rüstung,갑옷,鎧,盔甲
-CAR,Car,Car,Voiture,Char,Auto,자동차,車,车
-ENJOYMENT_PHRASE,It's fun!,It's brilliant!,C'est le fun !,C'est amusant!,Das macht Spaß!,재밌어요!,楽しいですよ！,真有趣！
-SCORE,SCORE,SCORE,SCORE,SCORE,PUNKTZAHL,점수,スコア,分数
-ENGLISH,English,English,Anglais,Anglais,Englisch,영어,英語,英语
-FRENCH,French,French,Français,Français,Französisch,프랑스 국민,フランス語,法语
-GERMAN,German,German,Allemand,Allemand,Deutsch,독일 사람,ドイツ語,德语
-KOREAN,Korean,Korean,coréen,coréen,Koreanisch,한국인,韓国語,韩国人
-JAPANESE,Japanese,Japanese,japonais,japonais,japanisch,일본어,日本語,日本人
-CHINESE,Chinese,Chinese,Chinois,Chinois,chinesisch,중국인,中国語,中国人
-UNITED STATES OF AMERICA,USA,USA,USA,USA,USA,미국,アメリカ合衆国,美国
-UNITED KINGDOM,UK,UK,ROYAUME-UNI,ROYAUME-UNI,Vereinigtes Königreich,영국,英国,英国
-FRANCE,France,France,France,France,Frankreich,프랑스,フランス,法国
-CANADA,Canada,Canada,Canada,Canada,Kanada,캐나다,カナダ,加拿大
-GERMANY,Germany,Germany,Allemagne,Allemagne,Deutschland,독일,ドイツ,德国
-KOREA,Korea,Korea,Corée,Corée,Korea,한국,韓国,韩国
-JAPAN,Japan,Japan,Japon,Japon,Japan,일본,日本,日本
-CHINA,China,China,Chine,Chine,China,중국,中国,中国
+keys,en-US,en-GB,fr,fr-CA,de,ko-KR,ja-JP,zh-CN,ach-IN
+COLOR,Color,Colour,Couleur,Couleur,Farbe,색상,色,颜色,ColorFake
+ARMOR,Armor,Armour,Armure,Armure,Rüstung,갑옷,鎧,盔甲,ArmorFake
+CAR,Car,Car,Voiture,Char,Auto,자동차,車,车,CarFake
+ENJOYMENT_PHRASE,It's fun!,It's brilliant!,C'est le fun !,C'est amusant!,Das macht Spaß!,재밌어요!,楽しいですよ！,真有趣！,It's fun!Fake
+SCORE,SCORE,SCORE,SCORE,SCORE,PUNKTZAHL,점수,スコア,分数,SCOREFake
+ENGLISH,English,English,Anglais,Anglais,Englisch,영어,英語,英语,EnglishFake
+FRENCH,French,French,Français,Français,Französisch,프랑스 국민,フランス語,法语,FrenchFake
+GERMAN,German,German,Allemand,Allemand,Deutsch,독일 사람,ドイツ語,德语,GermanFake
+KOREAN,Korean,Korean,coréen,coréen,Koreanisch,한국인,韓国語,韩国人,KoreanFake
+JAPANESE,Japanese,Japanese,japonais,japonais,japanisch,일본어,日本語,日本人,JapaneseFake
+CHINESE,Chinese,Chinese,Chinois,Chinois,chinesisch,중국인,中国語,中国人,ChineseFake
+UNITED STATES OF AMERICA,USA,USA,USA,USA,USA,미국,アメリカ合衆国,美国,USAFake
+UNITED KINGDOM,UK,UK,ROYAUME-UNI,ROYAUME-UNI,Vereinigtes Königreich,영국,英国,英国,UKFake
+FRANCE,France,France,France,France,Frankreich,프랑스,フランス,法国,FranceFake
+CANADA,Canada,Canada,Canada,Canada,Kanada,캐나다,カナダ,加拿大,CanadaFake
+GERMANY,Germany,Germany,Allemagne,Allemagne,Deutschland,독일,ドイツ,德国,GermanyFake
+KOREA,Korea,Korea,Corée,Corée,Korea,한국,韓国,韩国,KoreaFake
+JAPAN,Japan,Japan,Japon,Japon,Japan,일본,日本,日本,JapanFake
+CHINA,China,China,Chine,Chine,China,중국,中国,中国,ChinaFake

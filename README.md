@@ -152,7 +152,7 @@ This autoload handles the heavy lifting of setting up localization for you when 
 - `available_localizations: Array[String]` Contains all the available localizations once the game is running.
 ### Public Functions
 - `get_country_code(locale: String) -> String` Returns uppercase 2-letter country code of the passed locale if it exists, otherwise returns the language code.
-- `get_language_code(locale: String) -> String` Returns lowercase 2-letter language code of the passed locale.
+- `get_language_code(locale: String) -> String` Returns lowercase 2-letter or 3-letter language code of the passed locale.
 
 ## LocalizationButton <img src="/addons/dragonforge_localization/assets/textures/icons/localization_button.svg" width="32" alt="Localization Icon"/>
 OptionButton that automatically loads all available localized translations for your game and allows you to switch between locales them in the game. Also handles saving what language was saved and ensuring the game continues to use that language between sessions.
