@@ -65,7 +65,6 @@ func _ready() -> void:
 func _on_item_selected(index: int) -> void:
 	var locale = Localization.available_localizations[index]
 	#var locale: String = get_item_text(index)
-	print("Current Locale: %s   Passed Locale: %s" % [TranslationServer.get_locale(), locale])
 	if TranslationServer.get_locale() != locale:
 		TranslationServer.set_locale(locale)
 		Localization.locale_changed.emit(locale)

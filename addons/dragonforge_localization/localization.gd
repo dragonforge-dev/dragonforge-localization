@@ -14,10 +14,8 @@ func _ready() -> void:
 	if not localization_folder:
 		assert(false, "A Localization Folder has not been set in the Localization plugin. The Localization button will not work correctly without this value set. Open res://addons/dragonforge_localization/localization.tscn and set the folder in the Inspector.")
 	var loaded_locale: Variant = Disk.load_setting("localization_language")
-	print("Loaded Language: %s" % loaded_locale)
 	if loaded_locale:
 		TranslationServer.set_locale(loaded_locale)
-		print(TranslationServer.get_locale())
 	_load_localizations()
 
 
