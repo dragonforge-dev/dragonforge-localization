@@ -5,7 +5,7 @@ Godot plugin that automatically loads all available localized translations and p
 
 Localization is simply the process of making your game playable in another country. For most games that typically means translation of text into other languages. This plugin leverages Godot's already robust localization tools.
 
-# Version 0.1
+# Version 0.1.1
 For use with **Godot 4.5.stable** and later.
 ## Dependencies
 The following dependencies are included in the addons folder and are required for the template to function.
