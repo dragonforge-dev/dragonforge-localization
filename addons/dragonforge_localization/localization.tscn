@@ -4,3 +4,4 @@
 
 [node name="Localization" type="Node"]
 script = ExtResource("1_ap77q")
+localization_folder = "res://test/assets/localization"
