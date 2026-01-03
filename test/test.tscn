@@ -1,0 +1,42 @@
+[gd_scene load_steps=2 format=3 uid="uid://dn78ioaq1o3dc"]
+
+[ext_resource type="Script" uid="uid://ch2xq6nmltjbk" path="res://addons/dragonforge_localization/localization_button.gd" id="1_syuel"]
+
+[node name="Test" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="LocalizationButton" type="OptionButton" parent="HBoxContainer"]
+layout_mode = 2
+script = ExtResource("1_syuel")
+text_type = 1
+metadata/_custom_type_script = "uid://ch2xq6nmltjbk"
+
+[node name="Label" type="Label" parent="HBoxContainer"]
+layout_mode = 2
+text = "COLOR"
+
+[node name="Button" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+text = "ARMOR"
+
+[node name="Label2" type="Label" parent="HBoxContainer"]
+layout_mode = 2
+text = "CAR"
+
+[node name="Label3" type="Label" parent="HBoxContainer"]
+layout_mode = 2
+text = "ENJOYMENT_PHRASE"
+
+[node name="Button2" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+text = "SCORE"

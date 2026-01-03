@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://capw2yv58fb2g"]
+
+[ext_resource type="Script" uid="uid://bcw7eyjx3cwma" path="res://addons/dragonforge_localization/localization.gd" id="1_ap77q"]
+
+[node name="Localization" type="Node"]
+script = ExtResource("1_ap77q")

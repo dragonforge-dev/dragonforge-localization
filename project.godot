@@ -1,0 +1,31 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Dragonforge Localization v0.1"
+config/description="Godot plugin that automatically loads all available localized translations and provides an OptionButton that allows you to switch between them in the game, saving state between sessions."
+config/version="0.1"
+run/main_scene="uid://dn78ioaq1o3dc"
+config/features=PackedStringArray("4.5", "Forward Plus")
+config/icon="uid://eqrhdsbma444"
+
+[autoload]
+
+Disk="*res://addons/dragonforge_disk/disk.tscn"
+Localization="*res://addons/dragonforge_localization/localization.tscn"
+
+[debug]
+
+gdscript/warnings/untyped_declaration=1
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/dragonforge_disk/plugin.cfg", "res://addons/dragonforge_localization/plugin.cfg")

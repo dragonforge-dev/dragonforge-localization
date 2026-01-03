@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=3 uid="uid://dn78ioaq1o3dc"]
+
+[ext_resource type="Script" uid="uid://ch2xq6nmltjbk" path="res://addons/dragonforge_localization/localization_button.gd" id="1_syuel"]
+
+[node name="Test" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="LocalizationButton" type="OptionButton" parent="."]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 20.0
+script = ExtResource("1_syuel")
+metadata/_custom_type_script = "uid://ch2xq6nmltjbk"
