@@ -85,7 +85,7 @@ func _load_flag_icons() -> void:
 	clear()
 
 	for locale: String in Localization.available_localizations:
-		var texture: Texture2D = load(flag_folder[flag_size] + Localization.get_country_code(locale) + ".png")
+		var texture: Texture2D = load(flag_folder[flag_size] + Localization.get_country_code(locale).to_lower() + ".png")
 		var display_text: String
 		match text_type:
 			TextType.LANGUAGE_CODE:
