@@ -27,9 +27,9 @@ func get_country_code(locale: String) -> String:
 	return locale.substr(locale.length() - 2).to_upper()
 
 
-## Returns lowercase 2-letter language code of the passed locale.
+## Returns lowercase 2-letter or 3-letter language code of the passed locale.
 func get_language_code(locale: String) -> String:
-	return locale.substr(0, 2).to_lower()
+	return locale.replace("-", "_").get_slice("_", 0).to_lower()
 
 
 func _load_localizations() -> void:
