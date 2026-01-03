@@ -185,8 +185,8 @@ OptionButton that automatically loads all available localized translations for y
 All art included in this plugin can be freely used for free and commercial projects.
 
 ## Icons
-[Location Icon](https://www.svgrepo.com/svg/33955/location) from SVG Repo (CC0 License).
-[Global Localization Icon](https://www.svgrepo.com/svg/53904/global-localization) from SVG Repo (CC0 License).
+- [Location Icon](https://www.svgrepo.com/svg/33955/location) from SVG Repo (CC0 License).
+- [Global Localization Icon](https://www.svgrepo.com/svg/53904/global-localization) from SVG Repo (CC0 License).
 
 ## Localization Flags
 [World Country Flags Pack](https://moxica.itch.io/country-flags-icons) by [Moxica](https://moxica.itch.io/) **License:** You can use or modify the graphic assets according to your need for your projects (both commercial and personal). **You may not redistribute them or resell them.**
