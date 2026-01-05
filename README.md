@@ -1,4 +1,7 @@
 [![Static Badge](https://img.shields.io/badge/Godot%20Engine-4.5.stable-blue?style=plastic&logo=godotengine)](https://godotengine.org/)
+[![License](https://img.shields.io/github/license/dragonforge-dev/dragonforge-localization?logo=mit)](https://github.com/dragonforge-dev/dragonforge-localization/blob/main/LICENSE)
+[![GitHub release badge](https://badgen.net/github/release/dragonforge-dev/dragonforge-localization/latest)](https://github.com/dragonforge-dev/dragonforge-localization/releases/latest)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dragonforge-dev/dragonforge-localization)](https://img.shields.io/github/languages/code-size/dragonforge-dev/dragonforge-localization)
 
 # Dragonforge Localization <img src="/assets/textures/readme/project_icon.svg" width="32" alt="Project Icon"/>
 Godot plugin that automatically loads all available localized translations and provides an OptionButton that allows you to switch between them in the game, saving state between sessions.
